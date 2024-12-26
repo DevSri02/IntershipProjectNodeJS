@@ -1,5 +1,7 @@
 # IntershipProjectNodeJS
+
 Setup Instructions
+
 Prerequisites
 Node.js:
 Ensure you have Node.js (version 14 or higher) installed. Download it from Node.js Official Website.
@@ -8,7 +10,11 @@ Install MongoDB and ensure it's running locally on MongoDB Compass
 Environment Variables:
 Create a .env file in the project root and configure the following:
       4.  swagger ui for displaying the API’s on frontend
+
+
+
 API Usage Guide
+
 This section documents the available API endpoints, their functionalities, and example usage.
 Available Endpoints
 1. User Signup
