@@ -1,4 +1,4 @@
-# IntershipProjectNodeJS
+# InternshipProjectNodeJS
 
 Setup Instructions
 
